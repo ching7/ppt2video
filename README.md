@@ -1,3 +1,5 @@
+
+
 # ppt2video
 ppt文件转换为MP4工具类
 
@@ -47,4 +49,4 @@ java -jar PptToVideoTool.jar [参数]
 
 * `ConstantParam`类中调整`TTSFILEPATH`字段为实际安装目录
 * 科大讯飞的`TTS`和`FFmpeg`目前都支持在windows上安装，测试时可以用windows版本
-* 本工程在`Liunx`服务器上验证通过，`windows`尚未验证
+* 本工程在`Linux`服务器上验证通过，`windows`尚未验证
